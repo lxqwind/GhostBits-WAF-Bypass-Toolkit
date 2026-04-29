@@ -26,8 +26,7 @@ python3 ghost_bits.py
 
 演示案例：史上最强靶场-好靶场
 Ghost Bits Waf绕过 任意文件读取
-![截图](assets/11.png)
-
+![](https://github.com/lxqwind/GhostBits-WAF-Bypass-Toolkit/blob/main/images/03b25fbaabb316eda444dfe15a53f7c3.png)
 
 
 
