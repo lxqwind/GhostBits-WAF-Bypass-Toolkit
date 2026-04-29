@@ -38,7 +38,7 @@ Ghost Bits Waf绕过 任意文件读取
 <img width="1606" height="1320" alt="df749882-403d-42c5-a65a-bfb33172673f" src="https://github.com/user-attachments/assets/f7c0883e-6b01-4337-a937-191f42117261" />
 大家觉得好用的可以点点🌟 欢迎大佬指出bug 或者改进的地方。
 最后好靶场还是遥遥领先啊！！！！！
-
+靶场地址http://www.loveli.com.cn 
 
 
 
