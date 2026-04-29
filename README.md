@@ -27,9 +27,9 @@ python3 ghost_bits.py
 演示案例：史上最强靶场-好靶场
 Ghost Bits Waf绕过 任意文件读取
 
+<img width="1802" height="1138" alt="11" src="https://github.com/user-attachments/assets/64ccfed3-2128-49b8-9575-1cc62410e580" />
 
 
-https://github.com/user-attachments/assets/85539b14-8e4e-4bd9-a451-dd7d2233ac3b
 
 
 
